@@ -1,5 +1,7 @@
 ## End-to-end Machine Learning Project
 
+In this project, we use some parameters of Students like their gender, reading score, writing score, etc. to predict his scores in Mathematics subject. 
+
 **src** - source code of the projects
 
 utils - contains repetitive tasks \
